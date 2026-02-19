@@ -33,7 +33,7 @@ AGE_PRESETS = {
 }
 
 # Trial sequence: You can adjust this based on your research needs.
-TRIAL_SEQUENCE = [2, 2, 3, 3, 4, 4, 4, 5, 5, 5]
+TRIAL_SEQUENCE = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
 
 # Audio mode (set to False for visual-only)
 AUDIO_MODE = False
