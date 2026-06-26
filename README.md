@@ -1,4 +1,4 @@
-# Digit Span Task – PsychoPy Implementation
+# Digit Span Task – (PsychoPy Implementation)
 
 This repository contains a **Digit Span Task** implemented in **PsychoPy (v2023.x)**.  
 The task is designed for **academic and research use**, supporting age-based timing, optional audio presentation, and automatic data logging.
@@ -52,7 +52,7 @@ https://www.psychopy.org/download.html
 
 - Open a terminal in the project directory and run:
 
-python digit01.py
+digit-span-task.py
 
 ## 2. Enter Participant Information
 
